@@ -1,0 +1,8 @@
+var myList = [
+["Chicken Breast", 5],
+["Broccoli", 5],
+["Sweet Potato", 3],
+["Mixed Salad", 7],
+["Protein Powder", 1],
+["Protein Bars", 10]
+];

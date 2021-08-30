@@ -1,8 +1,7 @@
 # JSPractice
 Just some Javascript practice questions. Easy ones... Will get harder
 
-
--------------------------------------------------------------------------30/08/2021---------------------------------------------------------------------------------
+30/08/2021---------------------------------------------------------------------------------
 Just compeleted the Javascript course on FreeCodeCamp: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
 
 Takebacks :
@@ -15,4 +14,4 @@ Takebacks :
 
 ![Basic Javascript Award from FreeCodeCamp](/Completion.png)
 
--------------------------------------------------------------------------30/08/2021---------------------------------------------------------------------------------
+30/08/2021---------------------------------------------------------------------------------

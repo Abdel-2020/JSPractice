@@ -9,7 +9,7 @@ Takebacks :
 
   - Picked up the basic concepts fairly easily. 
   - What I want to focus on drilling array methods into my brain (not literally), as I've had a few hiccups with them. 
-  - I want to study recursion further as I don't have a good understanding of it.
+  - I want to study recursion further as I do not have a good understanding of it.
   - Thirdly, I want to use the Ternary operator a lot more, to show that I can be diverse in my coding. 
 
 

@@ -1,7 +1,5 @@
 function parrotTrouble(talking, hour){
-  if(talking == false){
-    return false;
-  } else {
-      return ((hour > 20) || (hour < 7));
-    }
-  }
+var val = talking === true && (hour < 7 || hour > 20) ? true : false
+  return val; 
+  
+}
